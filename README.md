@@ -1,5 +1,3 @@
-Certainly! Below is the updated README document with the added auto-restart option for the Redash Docker setup:
-
 # Redash Docker Setup with Auto-Restart
 
 This guide provides step-by-step instructions for setting up a Redash instance using Docker with the added auto-restart option. Redash is an open-source data visualization and dashboarding platform that allows you to connect to various data sources and create interactive visualizations and dashboards.
